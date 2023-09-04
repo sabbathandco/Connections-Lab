@@ -4,5 +4,7 @@
 			"path": "VScode Folder - v1"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
 }
