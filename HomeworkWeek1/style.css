@@ -1,0 +1,42 @@
+body, h1, h2, p {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    color: white;
+    background: #2596be;
+}
+
+header {
+    text-align: center;
+    padding-top: 10px;
+}
+
+header h1 {
+    font-size: 50px;
+    margin-bottom: 7px;  /* Some spacing between the title and the description */
+}
+
+header p {
+    font-size: 19.1px;
+    margin-bottom: 41px;  /* Some spacing between the description and the first section header */
+}
+
+section {
+    text-align: center;
+    padding-top: 66px;   /* To ensure 66 pixels between each section header */
+}
+
+/* Using media queries for responsiveness */
+@media screen and (min-width: 600px) {
+    /* You can adjust styles for larger screens here. For now, let's just increase the font size slightly. */
+    header h1 {
+        font-size: 60px;
+    }
+
+    header p {
+        font-size: 24px;
+    }
+
+    section h2 {
+        font-size: 36px;
+    }
+}
