@@ -1,0 +1,28 @@
+{
+    "fish": [
+      {
+        "id": "1",
+        "name": "Small Eye",
+        "species": "Alopias superciliosus (Bigeye Thresher)",
+        "gender": "Female",
+        "location": "NSW, Australia",
+        "image": "/images/Bigeye.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Pink",
+        "species": "Brachiopsilus dianthus (Pink Handfish)",
+        "gender": "Male",
+        "location": "Tasmania, Australia",
+        "image": "/images/Pink.gif"
+      },
+      {
+        "id": "3",
+        "name": "Tula",
+        "species": "Alopias superciliosus (School Shark)",
+        "gender": "Female",
+        "location": "NSW, Australia",
+        "image": "/images/Tope.jpeg"
+      }
+    ]
+  }
