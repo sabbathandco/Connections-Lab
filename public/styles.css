@@ -84,3 +84,14 @@ button {
 #send-button {
   width: 18%;
 }
+
+#logo-container {
+  text-align: center;  /* Centers the contents of this container */
+}
+
+#reef-logo {
+  width: 100px;  /* Or any desired width */
+  height: auto;  /* Maintains aspect ratio */
+  display: inline-block;  /* Keeps the logo inline with other elements */
+  margin-top: 10px;  /* Adds some space above the logo */
+}

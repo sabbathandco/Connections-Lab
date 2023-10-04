@@ -1,0 +1,352 @@
+[
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Western blue groper",
+    "Species": "Achoerodus gouldii",
+    "Family": "Labridae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Ocellated eagle ray",
+    "Species": "Aetobatus ocellatus",
+    "Family": "Aetobatidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Banded eagle ray",
+    "Species": "Aetomylaeus nichofii",
+    "Family": "Myliobatidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Ornate eagle ray",
+    "Species": "Aetomylaeus vespertilio",
+    "Family": "Myliobatidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Roundjaw bonefish",
+    "Species": "Albula glossodonta",
+    "Family": "Albulidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Pelagic thresher",
+    "Species": "Alopias pelagicus",
+    "Family": "Alopiidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Bigeye thresher",
+    "Species": "Alopias superciliosus",
+    "Family": "Alopiidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Thresher",
+    "Species": "Alopias vulpinus",
+    "Family": "Alopiidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Batuna's damselfish",
+    "Species": "Amblyglyphidodon batunaorum",
+    "Family": "Pomacentridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Whitesnout anemonefish",
+    "Species": "Amphiprion mccullochi",
+    "Family": "Pomacentridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Pointed sawfish",
+    "Species": "Anoxypristis cuspidata",
+    "Family": "Pristidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Spotted shovelnose ray",
+    "Species": "Aptychotrema timorensis",
+    "Family": "Trygonorrhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Japanese meagre",
+    "Species": "Argyrosomus japonicus",
+    "Family": "Sciaenidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Brown stingray",
+    "Species": "Bathytoshia lata",
+    "Family": "Dasyatidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Green humphead parrotfish",
+    "Species": "Bolbometopon muricatum",
+    "Family": "Scaridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Colclough's shark",
+    "Species": "Brachaelurus colcloughi",
+    "Family": "Brachaeluridae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Spotted Handfish",
+    "Species": "Brachionichthys hirsutus",
+    "Family": "Brachionichthyidae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Pink Handfish",
+    "Species": "Brachiopsilus dianthus",
+    "Family": "Brachionichthyidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Ziebell’s Handfish",
+    "Species": "Brachiopsilus ziebelli",
+    "Family": "Brachionichthyidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "",
+    "Species": "Cairnsichthys bitaeniatus",
+    "Family": "Melanotaeniidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Cairns rainbowfish",
+    "Species": "Cairnsichthys rhombosomoides",
+    "Family": "Melanotaeniidae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Silvertip shark",
+    "Species": "Carcharhinus albimarginatus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Graceful shark",
+    "Species": "Carcharhinus amblyrhynchoides",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Blacktail reef shark",
+    "Species": "Carcharhinus amblyrhynchos",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Pigeye shark",
+    "Species": "Carcharhinus amboinensis",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Copper shark",
+    "Species": "Carcharhinus brachyurus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Spinner shark",
+    "Species": "Carcharhinus brevipinna",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Silky shark",
+    "Species": "Carcharhinus falciformis",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Pondicherry shark",
+    "Species": "Carcharhinus hemiodon",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Bull shark",
+    "Species": "Carcharhinus leucas",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Blacktip shark",
+    "Species": "Carcharhinus limbatus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Oceanic whitetip shark",
+    "Species": "Carcharhinus longimanus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Blacktip reef shark",
+    "Species": "Carcharhinus melanopterus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Dusky shark",
+    "Species": "Carcharhinus obscurus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Sandbar shark",
+    "Species": "Carcharhinus plumbeus",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Blackspot shark",
+    "Species": "Carcharhinus sealei",
+    "Family": "Carcharhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Sand tiger shark",
+    "Species": "Carcharias taurus",
+    "Family": "Carchariidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Great white shark",
+    "Species": "Carcharodon carcharias",
+    "Family": "Lamnidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Gulper shark",
+    "Species": "Centrophorus granulosus",
+    "Family": "Centrophoridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Dumb gulper shark",
+    "Species": "Centrophorus harrissoni",
+    "Family": "Centrophoridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Smallfin gulper shark",
+    "Species": "Centrophorus moluccensis",
+    "Family": "Centrophoridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Leafscale gulper shark",
+    "Species": "Centrophorus squamosus",
+    "Family": "Centrophoridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Little gulper shark",
+    "Species": "Centrophorus uyato",
+    "Family": "Centrophoridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Roughskin dogfish",
+    "Species": "Centroscymnus owstonii",
+    "Family": "Somniosidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Whitefin swellshark",
+    "Species": "Cephaloscyllium albipinnum",
+    "Family": "Scyliorhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Basking shark",
+    "Species": "Cetorhinus maximus",
+    "Family": "Cetorhinidae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Endangered (EN)",
+    "Common Name": "Humphead wrasse",
+    "Species": "Cheilinus undulatus",
+    "Family": "Labridae",
+    "Occurrence": "native"
+    },
+    {
+    "Threat Category": "Critically Endangered (CR)",
+    "Common Name": "Dalhousie goby",
+    "Species": "Chlamydogobius gloveri",
+    "Family": "Gobiidae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Finke goby",
+    "Species": "Chlamydogobius japalpa",
+    "Family": "Gobiidae",
+    "Occurrence": "endemic"
+    },
+    {
+    "Threat Category": "Vulnerable (VU)",
+    "Common Name": "Elizabeth springs goby",
+    "Species": "Chlamydogobius micropterus",
+    "Family": "Gobiidae",
+    "Occurrence": "native"
+    }
+    ]
