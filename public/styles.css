@@ -5,49 +5,82 @@ body {
   margin: 0;
   padding: 0;
   color: #FFFFFF;
-  }
+}
   
-  header {
+header {
   text-align: center;
   background-color: #1D257C;
   padding: 1em;
-  }
+}
   
-  .main-grid {
+.main-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1em;
   padding: 1em;
-  }
+}
   
-  .hero-box {
+.hero-box {
   background-color: #1D257C;
   padding: 1em;
   border: 1px solid #FFFFFF;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
+
+#hero-box2 #chat-box {
+  width: 90%;  /* Increased width for more cushion */
+  margin: 0 auto;  /* Centers the chat-box within hero-box2 */
+  padding: 20px;  /* Adds padding inside the border */
+}
+
+#hero-box2 #chat-messages {
+  height: 200px;  /* Adjusted height to accommodate padding */
+  overflow: auto;
+  margin-bottom: 10px;  /* Adds space between chat messages and input field */
+}
+
+#hero-box2 #user-input, #hero-box2 #send-button {
+  margin-top: 10px;  /* Adds space above the input field and send button */
+}
+
+#hero-box2 #send-button {
+  width: 18%;
+  margin-left: 2%;  /* Adds space between input field and send button */
+}
   
-  button {
+#fish-image {
+  max-width: 400px; /* or any desired width */
+  max-height: 400px; /* or any desired height */
+  width: auto;
+  height: auto;
+}
+  
+button {
   display: block;
   margin: 1em auto;
   background-color: #EC1853;
   color: #FFFFFF;
-  }
+}
   
-  #chat-box {
+#chat-box {
   border: 1px solid #FFFFFF;
   height: 300px;
   overflow: auto;
-  }
+}
   
-  #chat-messages {
+#chat-messages {
   height: 250px;
   overflow: auto;
-  }
+}
   
-  #user-input {
+#user-input {
   width: 80%;
-  }
+}
   
-  #send-button {
+#send-button {
   width: 18%;
-  }
+}
